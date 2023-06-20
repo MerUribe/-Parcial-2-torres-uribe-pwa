@@ -3,6 +3,11 @@ main {
     flex-direction: column-reverse;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .loader{
     display: none;
     margin: auto;
